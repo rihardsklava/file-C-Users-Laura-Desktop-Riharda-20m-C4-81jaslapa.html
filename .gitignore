@@ -1,51 +1,31 @@
-# Ignore list for Eagle, a PCB layout tool
-
-# Backup files
-*.s#?
-*.b#?
-*.l#?
-*.b$?
-*.s$?
-*.l$?
-
-# Eagle project file
-# It contains a serial number and references to the file structure
-# on your computer.
-# comment the following line if you want to have your project file included.
-eagle.epf
-
-# Autorouter files
-*.pro
-*.job
-
-# CAM files
-*.$$$
-*.cmp
-*.ly2
-*.l15
-*.sol
-*.plc
-*.stc
-*.sts
-*.crc
-*.crs
-
-*.dri
-*.drl
-*.gpi
-*.pls
-*.ger
-*.xln
-
-*.drd
-*.drd.*
-
-*.s#*
-*.b#*
-
-*.info
-
-*.eps
-
-# file locks introduced since 7.x
-*.lck
+<!DOCTYPE html>
+<html>
+    <head>
+	    <img src = "https://spi1.itvnet.lv/upload2/articles/73/737472/images/46-iemesli-kas-pierada-1.jpg" />
+	     <title>Norvēģija</title>
+		 <style>
+		     body{
+			     width:800px;
+			     margin: auto;
+			 }
+			 div{
+			     background-color: red;
+			     padding:20px;
+			}
+			 img { 
+			     width:100%;
+		    }
+			 
+		     
+		 </style>		 
+    </head>
+	     <h1>Norvēģija</h1>
+		 <p> Norvēģija, oficiāli Norvēģijas Karaliste, ir valsts Ziemeļeiropā, kura aizņem Skandināvijas rietumu daļu.
+		 <p>Norvēģija ir Eiropas piektā lielākā valsts ar 386 958 km² lielu platību. 
+		 <p>Nosaukums nozīmē "ceļš uz ziemeļiem". Norvēģijā ir 5 miljoni iedzīvotāju.
+		 <p>Valsts valoda ir norvēģu valoda.
+		 <p>2009. gadā Norvēģija bija pasaulē ceturtā lielākā naftas eksportētājvalsts un viena no pasaules bagātākajām valstīm, naftas ieguves nozare rada aptuveni ceturto daļu no visa iekšzemes kopprodukta.
+		 <p>Tomēr 99% enerģijas Norvēģija iegūst no HES. Norvēģijas krona tiek uzskatīta par vienu no stabilākajām valūtām. 2007. gadā Norvēģija tika atzīta par pasaules mierīgāko zemi.
+		 <iframe width="560" height="315" src="https://www.youtube.com/embed/bAGhXcYc0o4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</body>
+</html>
